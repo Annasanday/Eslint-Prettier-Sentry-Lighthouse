@@ -1,0 +1,1 @@
+# Eslint-Prettier-Sentry-Lighthouse
